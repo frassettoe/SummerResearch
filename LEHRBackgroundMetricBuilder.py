@@ -5,8 +5,7 @@ edgetable = []#A list of lists of edges such that edge x,y is stored in edgetabl
 tetrahedralist = []#A list of tetrahedron objects
 edgeList = []#A list of edge names where edgeList[i]=[[a],[b]]
 vertexNumber = 0
-#This is just a test
-#Still just a test
+
 
 
 class Edge:
